@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @remodr
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Pentesting
+- 💞️ I’m looking to collaborate on Cybersecurity Field
